@@ -1,0 +1,13 @@
+{
+  "identifier": "garmlink-ai",
+  "name": "garmlink.ai",
+  "version": "1.0.0",
+  "description": "Hosted, read-only remote MCP server for Garmin Connect: ask Claude, ChatGPT or any MCP client about your activities, sleep, HRV, Body Battery, Training Readiness, VO2max and race predictions. Free, nothing to install; sign in to Garmin once, OAuth in the assistant.",
+  "author": "garmlink.ai",
+  "authorUrl": "https://garmlink.ai",
+  "homepage": "https://garmlink.ai",
+  "icon": "https://garmlink.ai/garmlink-icon-256.png",
+  "cloudEndpoint": "https://api.garmlink.ai/mcp",
+  "category": "tools",
+  "tags": ["garmin", "garmin-connect", "fitness", "running", "sleep", "hrv", "health", "training", "remote-mcp", "oauth"]
+}

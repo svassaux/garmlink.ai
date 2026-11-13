@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "garmlink": {
+      "serverUrl": "https://api.garmlink.ai/mcp"
+    }
+  }
+}
