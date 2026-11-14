@@ -29,6 +29,8 @@
 
 Any other client that can add a remote MCP server over Streamable HTTP with OAuth works the same way.
 
+The site and every guide are also available in [French](https://garmlink.ai/fr), [German](https://garmlink.ai/de), [Spanish](https://garmlink.ai/es) and [Italian](https://garmlink.ai/it).
+
 ## What the assistant can read
 
 48 tools, 6 prompts and 4 resources; the full reference is at [garmlink.ai/docs/mcp](https://garmlink.ai/docs/mcp) and the machine-readable manifest at [api.garmlink.ai/manifest.json](https://api.garmlink.ai/manifest.json).
@@ -59,6 +61,9 @@ Every tool reads. The only one that contacts Garmin on demand is `garmlink_sync_
 
 - [Every way to connect Garmin to an AI assistant](https://garmlink.ai/garmin-ai-connectors)
 - [Hosted vs installing a Garmin MCP server yourself](https://garmlink.ai/garmin-mcp-server)
+- [garmlink or Tredict](https://garmlink.ai/alternatives/tredict)
+- [garmlink or Fitness AI Connector](https://garmlink.ai/alternatives/fitness-ai-connector)
+- [garmlink or Garmin Chat Connector](https://garmlink.ai/alternatives/garmin-chat-connector)
 
 ## Also listed on
 
